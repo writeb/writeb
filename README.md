@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rauan Amantaiuly ========================================================================================================================================  IOS Developer -------------  I am 18 and I've been learning programming languages for 1 year, but its not all, I just started to learn a real programming things. Wish you all the bests  * 🌍  I'm based in Kazakhstan, Almaty * ✉️  You can contact me at [rauanamantaiuly@mail.ru](mailto:rauanamantaiuly@mail.ru)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rauan Amantaiuly
+
+
+IOS Developer
+-------------  
+I am 18 and I've been learning programming languages for 1 year, but its not all, I just started to learn a real programming things. Wish you all the bests
+
+* 🌍  I'm based in Kazakhstan, Almaty
+* ✉️  You can contact me at [rauanamantaiuly@mail.ru](mailto:rauanamantaiuly@mail.ru)
 
 ### Skills
 
